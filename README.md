@@ -1,1 +1,2 @@
 # BeeSocialityMetatranscriptomics
+Author: Chris Robinson

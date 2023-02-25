@@ -26,7 +26,7 @@ BWA-mem
 LoFreq without Indel Calling
 
 Script
-fst_calc.py (for calculation of fst)
-pairwise_fst.py (for pairwise calculations between all bee samples)
-population_fst.py (for pairwise calculations between all sample sites)
+fst_calc.py #for calculation of fst  
+pairwise_fst.py #for pairwise calculations between all bee samples  
+population_fst.py #for pairwise calculations between all sample sites  
 
